@@ -1,0 +1,6 @@
+# Secrets and local data
+.env
+loginDetails.txt
+__pycache__/
+*.pyc
+.venv/
